@@ -2,7 +2,8 @@
 
 SECTION 1 - ALERT
 
-What is a Security Alert?
+1. What is a Security Alert?
+
 A security alert is a notification generated when activity is considered suspicious or requires a security analyst's attention.
 
 An alert does not automatically mean that an attack has occurred. The detected activity could also have a legitimate explanation.
